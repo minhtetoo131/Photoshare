@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "680333700080",
+    "firebase_url": "https://photoshare-bf2f7.firebaseio.com",
+    "project_id": "photoshare-bf2f7",
+    "storage_bucket": "photoshare-bf2f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680333700080:android:8e8dd5cb227a5ae4",
+        "android_client_info": {
+          "package_name": "minhtetoo131.photoshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680333700080-5066oo42aese1qi62glru3kp0koovapk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "minhtetoo131.photoshare",
+            "certificate_hash": "4ceaaf1771988f2de7fefe7b88ab921f7c2de35a"
+          }
+        },
+        {
+          "client_id": "680333700080-ld45b3o4t6j0d3bn81ja1402iubt33c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOIgSK8omxQhNg-WSin8emqHWH3W1BIf8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680333700080-ld45b3o4t6j0d3bn81ja1402iubt33c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
